@@ -5,7 +5,7 @@ theme         = "roxo"
 summarylength = 25
 # English is the default language
 defaultContentLanguage = "en"
-# Force to have /en/my-page and /ro/my-page routes, even for default language.
+# Force to have /en/my-page and /fr/my-page routes, even for default language.
 defaultContentLanguageInSubdir= true
 
 [Languages]
@@ -74,47 +74,47 @@ languageName = "English"
 
     
     
-[Languages.ro]
-title = "21 Century Kids"
+[Languages.fr]
+title = "Electricien Cote D'azur"
 weight = 2
-languageName = "Română"
+languageName = "Français"
 
-  [[Languages.ro.menu.main]]
-    url     = "/ro/portfolio"
+  [[Languages.fr.menu.main]]
+    url     = "/fr/portfolio"
     name    = "Carti pentru Copii"
     weight  = 1
     
-  [[Languages.ro.menu.main]]
-    url     = "/ro/blog"
+  [[Languages.fr.menu.main]]
+    url     = "/fr/blog"
     name    = "Blog"
     weight  = 4  
-  [[Languages.ro.menu.main]]
-    url     = "/ro/about"
+  [[Languages.fr.menu.main]]
+    url     = "/fr/about"
     name    = "Despre"
     weight  = 5
-  [[Languages.ro.menu.main]]
+  [[Languages.fr.menu.main]]
     url     = "search/"
     name    = "Căutare"
     weight  = 6
   # Banner Section
-    [Languages.ro.params.banner]
+    [Languages.fr.params.banner]
     enable                = true
     background_image      = "images/backgrounds/ghenadie-ciobanu-electricien-cote-dazur2.jpg"
     heading               = "Si vous avez un problème qui nécessite l'intervention d'un électricien, vous savez qui appeler. "
     tagline               = "Je m'appelle Ghenadie Ciobanu et je ne peux pas tout faire ! Quand j'ai un problème avec ma voiture, je vais chez le mécanicien. Si je me sens mal, je vais chez le médecin. Chacun de nous a de l'expérience dans un ou plusieurs domaines, mais nous ne pouvons certainement pas tous les faire.En matière d'électricité, c'est le domaine dans lequel je suis un expert."
     primary_button        = "Blog"
-    primary_button_url    = "/ro/blog"
+    primary_button_url    = "/fr/blog"
     secondary_button      = "Fundamente"
     secondary_button_url  = "portfolio"
 
-  [Languages.ro.params.blog]
+  [Languages.fr.params.blog]
     enable    = true
     title     = "Articole:"
     subtitle  = "Complexitatea devine clară și practică."
     more      = "VEZI MAI MULTE ARTICOLE" 
     viewarticle = "Vezi Articolul"  
 
-  [Languages.ro.params.portfolio]
+  [Languages.fr.params.portfolio]
     enable    = true
     title     = "Carti pentru copii:"
     subtitle  = "Cream experiențe și muncim pentru strălucirea din ochii copiilor."
@@ -122,14 +122,14 @@ languageName = "Română"
     amazonbutton = "Cumpara pe Amazon"
     viewbook = "Vezi Cartea"
 
-[Languages.ro.params.call_to_action]
+[Languages.fr.params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "Creștem Împreună"
     primary_button      = "Merg la Blog"
-    primary_button_url  = "/ro/blog"
+    primary_button_url  = "/fr/blog"
     secondary_button    = "Cărți pentru Copii"
-    secondary_button_url = "/ro/portfolio"
+    secondary_button_url = "/fr/portfolio"
     
 
     
@@ -218,41 +218,41 @@ languageName = "Română"
         title       = "We help parents:"
         description = "to rise well balanced good kids<br>writing parenting advice content<br>and books for children"
     
-    [Languages.ro.params.footer]
+    [Languages.fr.params.footer]
   # Footer Contact Info
-      [Languages.ro.params.footer.contactInfo]
+      [Languages.fr.params.footer.contactInfo]
         title   = "Contact Info"
         address = "France, <br>Nice 06"
         phone   = ""
         email   = "info@21centurykids.com"
          # Footer Sitemap
-        [Languages.ro.params.footer.sitemap]
+        [Languages.fr.params.footer.sitemap]
           title   = "Harta Site"
-          [[Languages.ro.params.footer.sitemap.link]]
+          [[Languages.fr.params.footer.sitemap.link]]
             name = "Despre"
-            url  = "/ro/about"
-          [[Languages.ro.params.footer.sitemap.link]]
+            url  = "/fr/about"
+          [[Languages.fr.params.footer.sitemap.link]]
             name = "Carti pentru Copii"
-            url  = "/ro/portfolio"
-          [[Languages.ro.params.footer.sitemap.link]]
+            url  = "/fr/portfolio"
+          [[Languages.fr.params.footer.sitemap.link]]
             name = "Blog"
-            url  = "/ro/blog"
+            url  = "/fr/blog"
   
     # Footer Social Media
-      [Languages.ro.params.footer.social]
+      [Languages.fr.params.footer.social]
         title   = "Social Media"
-        [[Languages.ro.params.footer.social.link]]
+        [[Languages.fr.params.footer.social.link]]
           name = "Youtube"
           url  = "#"
         
-        [[Languages.ro.params.footer.social.link]]
+        [[Languages.fr.params.footer.social.link]]
           name = "Facebook"
           url  = "#"
-        [[Languages.ro.params.footer.social.link]]
+        [[Languages.fr.params.footer.social.link]]
           name = "Instagram"
           url  = "#https://www.instagram.com/21centurykids_com/"
       # Footer Service
-      [Languages.ro.params.footer.service]
+      [Languages.fr.params.footer.service]
         title       = "Ajutăm Părinții:"
         description = "să crească copii echilibrați<br>prin sfaturi practice de parenting<br>și cărți pentru copii"  
 
