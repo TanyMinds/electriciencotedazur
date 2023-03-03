@@ -1,6 +1,6 @@
 baseURL       = "/"
 languageCode  = "en-us"
-title         = "21CenturyKids"
+title         = "ElectricienCoteDazur"
 theme         = "roxo"
 summarylength = 25
 # English is the default language
@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir= true
 
 [Languages]
 [Languages.en]
-title = "21CenturyKids"
+title = "ElectricienCoteDazur"
 weight = 1
 languageName = "English"
 
@@ -35,9 +35,9 @@ languageName = "English"
   # Banner Section
     [Languages.en.params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "21st Century Kids are amazing, let's learn about them"
-    tagline               = "With care for the future of our children..."
+    background_image      = "images/backgrounds/ghenadie-ciobanu-electricien-cote-dazur2.jpg"
+    heading               = "If you have a problem that requires the intervention of an electrician, you know who to call."
+    tagline               = "My name is Ghenadie Ciobanu and I can't do everything! When I have a problem with my car, I go to the mechanic. If I feel bad, I go to the doctor. Each of us has experience in one or more fields, but we certainly cannot do them all. When it comes to electricity, this is the field in which I am an expert."
     primary_button        = "Blog"
     primary_button_url    = "/en/blog"
     secondary_button      = "Basics"
@@ -64,7 +64,7 @@ languageName = "English"
   [Languages.en.params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S GROW TOGETHER"
+    title               = "LET’S WORK TOGETHER"
     primary_button      = "Read the Blog"
     primary_button_url  = "/en/blog"
     secondary_button    = "View Books for Kids"
@@ -99,9 +99,9 @@ languageName = "Română"
   # Banner Section
     [Languages.ro.params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Copiii secolului 21 sunt minunați, să învățăm mai multe despre ei"
-    tagline               = "Cu grijă pentru viitorul copiilor noștri..."
+    background_image      = "images/backgrounds/ghenadie-ciobanu-electricien-cote-dazur2.jpg"
+    heading               = "Si vous avez un problème qui nécessite l'intervention d'un électricien, vous savez qui appeler. "
+    tagline               = "Je m'appelle Ghenadie Ciobanu et je ne peux pas tout faire ! Quand j'ai un problème avec ma voiture, je vais chez le mécanicien. Si je me sens mal, je vais chez le médecin. Chacun de nous a de l'expérience dans un ou plusieurs domaines, mais nous ne pouvons certainement pas tous les faire.En matière d'électricité, c'est le domaine dans lequel je suis un expert."
     primary_button        = "Blog"
     primary_button_url    = "/ro/blog"
     secondary_button      = "Fundamente"
@@ -160,7 +160,7 @@ languageName = "Română"
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/electricien-cote-dazur-logo3.png"
   logoSize = 500
   dateFormat = "26 FEB 1994"
   # Meta data

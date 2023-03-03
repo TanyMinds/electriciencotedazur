@@ -7,7 +7,7 @@ Search bar
 
 Languages 
 
-1. in layouts/partials/header codul cu privire lalimbi de introdus
+1. in layouts/partials/header codul cu privire la limbi de introdus
 2. config de pus meniul sub limbi
 3. de creat pentru fiecare pagina sau sectiune dublura pentru .en. si .ro.
 
@@ -15,3 +15,13 @@ Run site onlocalhost:
 CTRL + Shift + B --- Serve site
 Close site onlocal host 
 Click Jos Hugo Helper --- Click CTRL + C
+
+Prima pagina a site-ului
+In layouts - lista de elemente care sa apara - ex: {{ partial "blog.html" . }}
+
+
+
+
+
+
+
