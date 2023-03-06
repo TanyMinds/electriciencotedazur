@@ -5,10 +5,10 @@ on:
     branches:
       - master  # Set a branch to deploy
 
-permissions: read-all|write-all
 
 jobs:
   deploy:
+    permissions: read-all|write-all
     runs-on: ubuntu-22.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
