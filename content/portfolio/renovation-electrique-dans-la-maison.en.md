@@ -2,9 +2,9 @@
 title: "Electrical renovation in a house"
 date: 2023-03-04
 type: portfolio
-image: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
-category: ["Tableau électrique", "Services"]
-coperta: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
+image: "images/projects/renovation-electrique-dans-la-maison-french-riviera-electrician.jpg"
+category: ["Services", "Electrician French Riviera"]
+coperta: "images/projects/renovation-electrique-dans-la-maison-french-riviera-electrician.jpg"
 tariff: "/en/blog"
 project_images: 
 ---

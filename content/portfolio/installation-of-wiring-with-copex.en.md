@@ -2,9 +2,9 @@
 title: "Installation of wiring with copex"
 date: 2023-03-04
 type: portfolio
-image: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
-category: ["Tableau électrique", "Services"]
-coperta: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
+image: "images/projects/cablage-avec-gaine-wiring-copex-electricien-south-france.jpg"
+category: ["Services", "Electrician French Riviera",]
+coperta: "images/projects/cablage-avec-gaine-wiring-copex-electricien-south-france.jpg"
 tariff: "/en/blog"
 project_images: 
 ---

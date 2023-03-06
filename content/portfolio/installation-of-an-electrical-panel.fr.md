@@ -3,7 +3,7 @@ title: "Pose d’un tableau électrique"
 date: 2023-03-04
 type: portfolio
 image: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
-category: ["Tableau électrique", "Services"]
+category: ["Services", "Electricien Cote d'Azur",]
 coperta: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
 tariff: "/fr/blog"
 project_images: 

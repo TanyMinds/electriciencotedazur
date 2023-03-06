@@ -2,9 +2,9 @@
 title: "Installation of a main circuit breaker"
 date: 2023-03-04
 type: portfolio
-image: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
-category: ["Tableau électrique", "Services"]
-coperta: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
+image: "images/projects/pose-d-un-disjoncteur-de-branchement.jpg"
+category: ["Services", "Electrician French Riviera",]
+coperta: "images/projects/pose-d-un-disjoncteur-de-branchement.jpg"
 tariff: "/fr/blog"
 project_images: 
 ---

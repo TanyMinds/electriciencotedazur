@@ -2,9 +2,9 @@
 title: "Rehabilitation of the Electrical Network in an Apartment"
 date: 2023-03-04
 type: portfolio
-image: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
-category: ["Tableau électrique", "Services"]
-coperta: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
+image: "images/projects/rehabilitation-reseau-electrique-electricien-nice-06-cote-azur.jpg"
+category: ["Services", "Electrician French Riviera",]
+coperta: "images/projects/rehabilitation-reseau-electrique-electricien-nice-06-cote-azur.jpg"
 tariff: "/en/blog"
 project_images: 
 ---

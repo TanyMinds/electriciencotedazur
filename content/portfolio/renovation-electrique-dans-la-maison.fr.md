@@ -2,9 +2,9 @@
 title: "Rénovation électrique dans la maison"
 date: 2023-03-04
 type: portfolio
-image: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
-category: ["Tableau électrique", "Services"]
-coperta: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
+image: "images/projects/renovation-electrique-dans-la-maison-french-riviera-electrician.jpg"
+category: ["Services", "Electricien Cote d'Azur",]
+coperta: "images/projects/renovation-electrique-dans-la-maison-french-riviera-electrician.jpg"
 tariff: "/fr/blog"
 project_images: 
 ---

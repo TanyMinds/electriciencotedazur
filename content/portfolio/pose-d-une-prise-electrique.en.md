@@ -2,9 +2,9 @@
 title: "Installing an electrical outlet"
 date: 2023-03-04
 type: portfolio
-image: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
-category: ["Tableau électrique", "Services"]
-coperta: "images/projects/Pose-d-un-tableau-electrique-1.jpg"
+image: "images/projects/Installing-electrical-outlet-electrician-french-riviera-nice-06.jpg"
+category: ["Services", "Electrician French Riviera",]
+coperta: "images/projects/Installing-electrical-outlet-electrician-french-riviera-nice-06.jpg"
 tariff: "/en/blog"
 project_images: 
 ---
