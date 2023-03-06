@@ -92,7 +92,11 @@
 
 table, th, td {
   border: 1px solid;
-  border-color: black;
+  border-color: rgb(151, 151, 151);
+}
+
+th, td {
+  padding: 0.5em;
 }
 
 tr:nth-child(odd) {
@@ -100,5 +104,5 @@ tr:nth-child(odd) {
 }
 
 tr:nth-child(even) {
-  background-color: rgb(204, 220, 255);
+  background-color: rgb(245, 245, 245);
 }
