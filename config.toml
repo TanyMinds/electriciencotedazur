@@ -16,31 +16,31 @@ languageName = "English"
 
   [[Languages.en.menu.main]]
      url     = "/portfolio"
-     name    = "Books for Kids"
+     name    = "Services"
      weight  = 1
     
   [[Languages.en.menu.main]]
     url     = "/blog"
-    name    = "Blog"
+    name    = "Prices"
     weight  = 4
   [[Languages.en.menu.main]]
     url     = "/about"
     name    = "About"
     weight  = 5
   [[Languages.en.menu.main]]
-    url     = "search/"
-    name    = "Search"
+    url     = "/contact"
+    name    = "Contact"
     weight  = 6
 
   # Banner Section
     [Languages.en.params.banner]
     enable                = true
     background_image      = "images/backgrounds/ghenadie-ciobanu-electricien-cote-dazur2.jpg"
-    heading               = "If you have a problem that requires the intervention of an electrician, you know who to call."
+    heading               = "If you have a problem that requires the intervention of an electrician, you know who to call 07 53 81 78 02 "
     tagline               = "My name is Ghenadie Ciobanu and I can't do everything! When I have a problem with my car, I go to the mechanic. If I feel bad, I go to the doctor. Each of us has experience in one or more fields, but we certainly cannot do them all. When it comes to electricity, this is the field in which I am an expert."
-    primary_button        = "Blog"
+    primary_button        = "Prices"
     primary_button_url    = "/en/blog"
-    secondary_button      = "Basics"
+    secondary_button      = "Services"
     secondary_button_url  = "portfolio"
   
   [Languages.en.params.blog]
@@ -52,11 +52,11 @@ languageName = "English"
     
   [Languages.en.params.portfolio]
     enable    = true
-    title     = "Books for Kids:"
-    subtitle  = "Crafting experiences and working for sparkling in the children's eyes."
-    more      = "VIEW MORE BOOKS"
-    amazonbutton = "Buy on Amazon"
-    viewbook = "View Book"
+    title     = "Services:"
+    subtitle  = "I will definitely find the optimal solution for you."
+    more      = "VIEW MORE SERVICES"
+    amazonbutton = "Prices"
+    viewbook = "View Service"
     
 
   
@@ -65,9 +65,9 @@ languageName = "English"
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "LET’S WORK TOGETHER"
-    primary_button      = "Read the Blog"
+    primary_button      = "Prices"
     primary_button_url  = "/en/blog"
-    secondary_button    = "View Books for Kids"
+    secondary_button    = "Services"
     secondary_button_url = "/en/portfolio"
 
 
@@ -81,54 +81,54 @@ languageName = "Français"
 
   [[Languages.fr.menu.main]]
     url     = "/fr/portfolio"
-    name    = "Carti pentru Copii"
+    name    = "Services"
     weight  = 1
     
   [[Languages.fr.menu.main]]
     url     = "/fr/blog"
-    name    = "Blog"
+    name    = "Tarifs"
     weight  = 4  
   [[Languages.fr.menu.main]]
     url     = "/fr/about"
-    name    = "Despre"
+    name    = "À propos"
     weight  = 5
   [[Languages.fr.menu.main]]
-    url     = "search/"
-    name    = "Căutare"
+    url     = "/contact"
+    name    = "Contact"
     weight  = 6
   # Banner Section
     [Languages.fr.params.banner]
     enable                = true
     background_image      = "images/backgrounds/ghenadie-ciobanu-electricien-cote-dazur2.jpg"
-    heading               = "Si vous avez un problème qui nécessite l'intervention d'un électricien, vous savez qui appeler. "
+    heading               = "Si vous avez un problème qui nécessite l'intervention d'un électricien, vous savez qui appeler 07 53 81 78 02 "
     tagline               = "Je m'appelle Ghenadie Ciobanu et je ne peux pas tout faire ! Quand j'ai un problème avec ma voiture, je vais chez le mécanicien. Si je me sens mal, je vais chez le médecin. Chacun de nous a de l'expérience dans un ou plusieurs domaines, mais nous ne pouvons certainement pas tous les faire.En matière d'électricité, c'est le domaine dans lequel je suis un expert."
-    primary_button        = "Blog"
+    primary_button        = "Tarifs"
     primary_button_url    = "/fr/blog"
-    secondary_button      = "Fundamente"
+    secondary_button      = "Services"
     secondary_button_url  = "portfolio"
 
   [Languages.fr.params.blog]
     enable    = true
-    title     = "Articole:"
+    title     = "Services:"
     subtitle  = "Complexitatea devine clară și practică."
     more      = "VEZI MAI MULTE ARTICOLE" 
     viewarticle = "Vezi Articolul"  
 
   [Languages.fr.params.portfolio]
     enable    = true
-    title     = "Carti pentru copii:"
-    subtitle  = "Cream experiențe și muncim pentru strălucirea din ochii copiilor."
-    more      = "VEZI MAI MULTE CARTI"
-    amazonbutton = "Cumpara pe Amazon"
-    viewbook = "Vezi Cartea"
+    title     = "Services:"
+    subtitle  = "Je trouverai certainement la solution optimale pour vous."
+    more      = "VOIR PLUS DE SERVICES"
+    amazonbutton = "Tarifs"
+    viewbook = "Voir le service"
 
 [Languages.fr.params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "Creștem Împreună"
-    primary_button      = "Merg la Blog"
+    title               = "Travaillons ensemble"
+    primary_button      = "Tarifs"
     primary_button_url  = "/fr/blog"
-    secondary_button    = "Cărți pentru Copii"
+    secondary_button    = "Services"
     secondary_button_url = "/fr/portfolio"
     
 
@@ -164,8 +164,8 @@ languageName = "Français"
   logoSize = 500
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "21CenturyKids"
-  author = "21CenturyKids"
+  description = "ElectricienCoteDazur"
+  author = "ElectricienCoteDazur"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
@@ -184,21 +184,24 @@ languageName = "Français"
     # Footer Contact Info
     [Languages.en.params.footer.contactInfo]
       title   = "Contact Info"
-      address = "France, <br>Nice 06"
-      phone   = ""
-      email   = "info@21centurykids.com"
+      address = "France, Nice 06"
+      phone   = "+33 07 53 81 78 02"
+      email   = "ghenadye.ciobanu@gmail.com"
       # Footer Sitemap
       [Languages.en.params.footer.sitemap]
         title   = "Sitemap"
         [[Languages.en.params.footer.sitemap.link]]
-          name = "About us"
+          name = "About"
           url  = "/en/about"
         [[Languages.en.params.footer.sitemap.link]]
-          name = "Books for Kids"
+          name = "Services"
           url  = "/en/portfolio"
         [[Languages.en.params.footer.sitemap.link]]
-          name = "Blog"
+          name = "Tarifs"
           url  = "/en/blog"
+        [[Languages.en.params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "/en/contact"  
         
       # Footer Social Media
       [Languages.en.params.footer.social]
@@ -209,34 +212,37 @@ languageName = "Français"
         
         [[Languages.en.params.footer.social.link]]
           name = "Facebook"
-          url  = "#"
+          url  = "https://www.facebook.com/Electricien.Cote.dAzur"
         [[Languages.en.params.footer.social.link]]
           name = "Instagram"
-          url  = "#https://www.instagram.com/21centurykids_com/"
+          url  = "#"
       # Footer Service
       [Languages.en.params.footer.service]
-        title       = "We help parents:"
-        description = "to rise well balanced good kids<br>writing parenting advice content<br>and books for children"
+        title       = "I speak:"
+        description = " english <br>french<br>rusian<br>romanian"
     
     [Languages.fr.params.footer]
   # Footer Contact Info
       [Languages.fr.params.footer.contactInfo]
         title   = "Contact Info"
-        address = "France, <br>Nice 06"
-        phone   = ""
-        email   = "info@21centurykids.com"
+        address = "France, Nice 06"
+        phone   = "+33 07 53 81 78 02"
+        email   = "ghenadye.ciobanu@gmail.com"
          # Footer Sitemap
         [Languages.fr.params.footer.sitemap]
-          title   = "Harta Site"
+          title   = "Sitemap"
           [[Languages.fr.params.footer.sitemap.link]]
-            name = "Despre"
+            name = "À propos"
             url  = "/fr/about"
           [[Languages.fr.params.footer.sitemap.link]]
-            name = "Carti pentru Copii"
+            name = "Services"
             url  = "/fr/portfolio"
           [[Languages.fr.params.footer.sitemap.link]]
-            name = "Blog"
+            name = "Tarifs"
             url  = "/fr/blog"
+          [[Languages.fr.params.footer.sitemap.link]]
+            name = "Contact"
+            url  = "/fr/contact"  
   
     # Footer Social Media
       [Languages.fr.params.footer.social]
@@ -247,14 +253,14 @@ languageName = "Français"
         
         [[Languages.fr.params.footer.social.link]]
           name = "Facebook"
-          url  = "#"
+          url  = "https://www.facebook.com/Electricien.Cote.dAzur"
         [[Languages.fr.params.footer.social.link]]
           name = "Instagram"
           url  = "#https://www.instagram.com/21centurykids_com/"
       # Footer Service
       [Languages.fr.params.footer.service]
-        title       = "Ajutăm Părinții:"
-        description = "să crească copii echilibrați<br>prin sfaturi practice de parenting<br>și cărți pentru copii"  
+        title       = "Je parle:"
+        description = " français <br> anglais <br> russe <br> roumain"  
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

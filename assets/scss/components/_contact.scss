@@ -5,9 +5,11 @@
     padding: 120px 0 100px;
   }
   &-title{
-    font-weight: 700;
+    
+    font-weight: 500;
+    font-size: 35px;
     @include tablet{
-      font-size: 40px;
+      font-size: 20px;
     }
     span{
       color: $primary-color;
@@ -47,4 +49,8 @@
       margin-bottom: 70px;
     }
   }
+}
+
+.contacts {
+  text-align: left;
 }

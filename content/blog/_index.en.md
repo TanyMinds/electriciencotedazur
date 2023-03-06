@@ -1,5 +1,30 @@
 ---
-title       : "21st Century Kids"
+title       : "Prices"
 date        : 2019-12-23T20:17:01+06:00
-description : "Fuzing parenting experience with studies in NLP, personal development, child psychology, marketing, business and law. Through the blog I want to highlight the importance of children's education adequate time in which we live. We cannot educate the children of the 21st century with the same tools with which we, the parents, were educated. Many of them require an UPGRADE, as children say. They see the world through completely different filters than we do. I want us to try together to distinguish from the multitude of information only the essential! I will try to explain the complexity of things by simplifying, until we get to the essence."
+description : ""
 ---
+
+
+
+| Prix électricien | Prix  HT (hors fourniture) |
+|:----------|:-------------:|
+| [Electrical renovation in a house]({{< ref "portfolio/renovation-electrique-dans-la-maison">}}) |  50 à 120 € le m² |
+| [Hourly rate of an electrician]({{< ref "portfolio/tarif-horaire-electricien-cote-d-azur-french-riviera">}}) |    35 à 100 € |
+| [Installation of an electrical panel]({{< ref "/portfolio/installation-of-an-electrical-panel">}}) | 300 à 1 000 € |
+| [Electrical panel upgrade]({{< ref "portfolio/electrical-panel-upgrade">}}) | 300 à 1000 € |
+| [Installation of a main circuit breaker]({{< ref "portfolio/pose-d-un-disjoncteur-de-branchement">}}) | 80 à 300 € |
+| [Installing an electrical outlet]({{< ref "portfolio/pose-d-une-prise-electrique">}}) | 30 à 100 € |
+| [Installation of a Switch]({{< ref "portfolio/installation-of-a-switch">}}) | 30 à 80 € |
+| [Grounding]({{< ref "portfolio/grounding">}}) | 200 à 700 € |
+| [Installation of wiring with copex]({{< ref "portfolio/installation-of-wiring-with-copex">}}) | 30 € par mètre linéaire |
+| [Installation of a junction box]({{< ref "portfolio/installation-of-a-junction-box">}}) | 70 € |
+| [Installation of a differential switch]({{< ref "portfolio/installation of a differential switch">}}) | A partir de 100 € |
+| Prix d’un disjoncteur de branchement | A partir de 50 € |
+| [Installation doorbell]({{< ref "portfolio/installation-doorbell">}}) | A partir de 50 € |
+| Doorbell repair| A partir de 50 € |
+| [Installation of a chandelier]({{< ref "portfolio/installation-d-une-lustre">}}) | A partir de 50 € |
+| [Installation of an Electric Heater]({{< ref "portfolio/installation-of-an-electric-heater">}}) | A partir de 150 € |
+| [Rehabilitation of the Electrical Network]({{< ref "rehabilitation-electrical-network-apartment">}}) | 40 à 110 € le m² |
+| Prix des frais de déplacement (pour les distances supérieures à 15 km de Nice) | 35 €/H |
+
+ 

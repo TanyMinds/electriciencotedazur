@@ -24,7 +24,7 @@
       }
       span{
         font-family: $secondary-font;
-        color: $dark-rose;
+        color: $secondary-color;
         display: block;
         margin-bottom: 10px;
       }
@@ -80,20 +80,20 @@
     font-family: $secondary-font;
     font-size: 18px;
     font-weight: 500;
-    color: $dark-rose;
+    color: $primary-color;
     &::before{
       content: '';
       position: absolute;
       height: 2px;
       width: 100%;
-      background: $dark-rose;
+      background: $primary-color;
       bottom: -2px;
       transition: transform 0.3s $site-ease;
       transform-origin: right;
       transform: scaleX(0);
     }
     &:hover{
-      color: $primary-color;
+      color: darken($color: #fcb85f, $amount: 10);
       text-decoration: none;
       &::before{
         transform: scaleX(1);
@@ -111,7 +111,7 @@
       h1{
         font-size: 40px;
         span{
-          color: $dark-rose;
+          color: #a86500;
         }
         @include tablet{
           font-size: 25px;
@@ -203,7 +203,7 @@
       
       img{
         width: 99%;
-        border: 1px solid rgba(197, 134, 134, 0.466);
+        border: 1px solid rgba(197, 162, 134, 0.466);
         // border-color: $dark-rose;
         margin-top: 1em;
         &:nth-child(2n){
