@@ -20,7 +20,7 @@ languageName = "English"
      weight  = 1
     
   [[Languages.en.menu.main]]
-    url     = "/blog"
+    url     = "/tarifs"
     name    = "Prices"
     weight  = 4
   [[Languages.en.menu.main]]
@@ -85,7 +85,7 @@ languageName = "Français"
     weight  = 1
     
   [[Languages.fr.menu.main]]
-    url     = "/fr/blog"
+    url     = "/fr/tarifs"
     name    = "Tarifs"
     weight  = 4  
   [[Languages.fr.menu.main]]
